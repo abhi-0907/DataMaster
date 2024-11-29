@@ -15,6 +15,10 @@ DataMaster is a Flask-based web application designed to assist users in explorin
 - **Personalized Suggestions**: Get tailored program recommendations through the Gemini-Flash model API integration.
 - **Efficient Data Management**: Utilizes a MySQL database for secure and optimized storage and querying of data.
 
+![DataFinderForm](https://github.com/user-attachments/assets/b6cb7c35-f062-413f-b8e7-df8c58c215af)
+![DataInsightsForm](https://github.com/user-attachments/assets/dea82c10-207c-4624-b3fd-9c579eb9c59a)
+
+
 ---
 
 ## Tech Stack
@@ -95,6 +99,14 @@ Follow these steps to run the application locally:
 - Add user authentication for personalized dashboards.
 - Enable real-time updates of program data.
 - Expand data scraping sources for broader coverage.
+
+---
+
+## Result Images
+
+![DataFinderResults](https://github.com/user-attachments/assets/a249c05f-0719-4ece-abde-a3f26f9f9e97)
+![DataFinderMap](https://github.com/user-attachments/assets/b45e9ea5-f0ee-481d-a6e3-1674e7b7bfc8)
+![DataInsightsResults](https://github.com/user-attachments/assets/329f2bcb-b06d-469e-8218-69bce2b140e5)
 
 ---
 
