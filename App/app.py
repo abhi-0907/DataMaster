@@ -1,7 +1,7 @@
 from flask import Flask, render_template, jsonify, request
 import pandas as pd
 import folium
-from App.static.gemini_model import generate_insights 
+from static.gemini_model import generate_insights 
 import mysql.connector
 import json
 from cachetools import cached, TTLCache
@@ -113,33 +113,21 @@ def datafinder():
 
 @app.route("/DataFinder/Results", methods=["POST"])
 def datafinder_results():
-    # Get form data
-    course = request.form['course_preference']
-    country = request.form['country_preference']
-    max_fees = float(request.form['max_fees'])
+    # Get form data with basic validation
+    try:
+        course = request.form['course_preference']
+        country = request.form['country_preference']
+        max_fees = float(request.form['max_fees'])
+    except KeyError as e:
+        return jsonify({"error": f"Missing parameter: {e}"}), 400
+    except ValueError:
+        return jsonify({"error": "Invalid fee value"}), 400
 
     # querying results from database
     json_results, geodata = get_data(course, country, max_fees)
 
-    # # Read the CSV file based on the selected course
-    # df = pd.read_csv(courses[course])
-    # filtered_df = df[(df["Country"] == country) & (df["Average Fees in INR"] <= max_fees)]
-    # # Filter geo_df based on filtered universities
-    # universities = filtered_df["University Name"].tolist()
-    # geo_df = geo_df[geo_df["University Name"].isin(universities)]
-    # # Convert filtered DataFrame to JSON records
-    # table_json = filtered_df.to_json(orient="records")
-
-    # Read geo data
-    geo_df = pd.read_csv("uni_data/geo_data/geo_data.csv")
-    # Create Folium map
+    # Create a Folium map for geolocation
     map = folium.Map(location=[20, 0], zoom_start=1)
-    # for _, row in geo_df.iterrows():
-    #     folium.Marker(
-    #         location=[row["lat"], row["long"]],
-    #         popup=row["University Name"]
-    #     ).add_to(map)
-
     for row in geodata:
         folium.Marker(
             location=[row[1], row[2]],
@@ -148,8 +136,47 @@ def datafinder_results():
     
     map_html = map._repr_html_()
 
-    # Render the template with the map and data
     return render_template('datafinder_results.html', map_html=map_html, table_json=json_results, course=course, country=country, max_fees=max_fees)
+
+# @app.route("/DataFinder/Results", methods=["POST"])
+# def datafinder_results():
+#     # Get form data
+#     course = request.form['course_preference']
+#     country = request.form['country_preference']
+#     max_fees = float(request.form['max_fees'])
+
+#     # querying results from database
+#     json_results, geodata = get_data(course, country, max_fees)
+
+#     # # Read the CSV file based on the selected course
+#     # df = pd.read_csv(courses[course])
+#     # filtered_df = df[(df["Country"] == country) & (df["Average Fees in INR"] <= max_fees)]
+#     # # Filter geo_df based on filtered universities
+#     # universities = filtered_df["University Name"].tolist()
+#     # geo_df = geo_df[geo_df["University Name"].isin(universities)]
+#     # # Convert filtered DataFrame to JSON records
+#     # table_json = filtered_df.to_json(orient="records")
+
+#     # Read geo data
+#     geo_df = pd.read_csv("uni_data/geo_data/geo_data.csv")
+#     # Create Folium map
+#     map = folium.Map(location=[20, 0], zoom_start=1)
+#     # for _, row in geo_df.iterrows():
+#     #     folium.Marker(
+#     #         location=[row["lat"], row["long"]],
+#     #         popup=row["University Name"]
+#     #     ).add_to(map)
+
+#     for row in geodata:
+#         folium.Marker(
+#             location=[row[1], row[2]],
+#             popup=row[0]
+#         ).add_to(map)
+    
+#     map_html = map._repr_html_()
+
+#     # Render the template with the map and data
+#     return render_template('datafinder_results.html', map_html=map_html, table_json=json_results, course=course, country=country, max_fees=max_fees)
 
 @app.route("/DataInsights")
 def datainsights():
