@@ -51,7 +51,7 @@ Follow these steps to run the application locally:
 2. **Create a virtual environment**:
    ```bash
    python -m venv .venv
-   source .venv/bin/activate  # For Windows: .venv\Scripts\activate
+   source .venv/Scripts/activate  # For Windows: .venv\Scripts\activate
    ```
 
 3. **Install dependencies**:
