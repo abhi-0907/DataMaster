@@ -60,7 +60,7 @@ Follow these steps to run the application locally:
    ```
 
 4. **Configure environment variables**:
-   - Create a `.env` file in the project root directory and add the following variables:
+   - Make sure you add your values for`.env` file in the project App directory:
      ```plaintext
      FLASK_APP=app.py
      FLASK_ENV=development
