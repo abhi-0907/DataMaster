@@ -2,6 +2,9 @@
 
 DataMaster is a Flask-based web application designed to assist users in exploring and analyzing Master’s degree programs. It provides valuable insights and personalized recommendations to help users make informed decisions about their academic journey.  
 
+![DataMasterIndex](https://github.com/user-attachments/assets/22ed0f48-ac84-4509-a7c1-71bffddfc821)
+
+
 ---
 
 ## Features
@@ -37,8 +40,8 @@ Follow these steps to run the application locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo_url>
-   cd <project_directory>
+   git clone https://github.com/abhi-0907/DataMaster.git
+   cd DataMaster
    ```
 
 2. **Create a virtual environment**:
@@ -67,7 +70,7 @@ Follow these steps to run the application locally:
 5. **Set up the MySQL database**:
    - Import the database schema:
      ```bash
-     mysql -u <user> -p <database_name> < schema.sql
+     mysql -u <user> -p <database_name> < DB.sql
      ```
 
 6. **Run the application**:
