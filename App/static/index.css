@@ -1,0 +1,115 @@
+/* General Reset */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+  }
+
+  nav a{
+    color:#d7d7d7;
+  }
+  
+  /* Page Content */
+  #pagecontent {
+    background-image: url('../static/high-angle-academic-cap-glasses-with-globe.jpg'); /* Adjust the path based on your directory structure */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    color: #ffffff;
+  }
+  
+  /* About Section */
+  .about {
+    text-align: left;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #c7c3c3;
+  }
+  
+  .about h2 {
+    font-size: 2rem;
+    text-decoration: underline;
+    margin-bottom: 20px;
+  }
+  
+  .about p {
+    font-style: italic;
+    font-size: 1rem;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  
+  .about a.btn {
+    display: inline-block;
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
+  /* Heading Section */
+  .heading {
+    text-align: center;
+    color: #000f1e;
+    padding: 30px;
+  }
+  
+  .heading h1 {
+    font-size: 3rem;
+    line-height: 1.2;
+  }
+  
+  .heading .highlight {
+    color: #f4b400;
+    text-shadow: 0 0 5px #000000;
+  }
+
+
+  
+  /* Responsive Design */
+  @media (max-width: 991px) {
+    .row {
+      flex-direction: column-reverse;
+    }
+  
+    .about,
+    .heading {
+      text-align: center;
+      margin: auto;
+      padding: 20px;
+    }
+  
+    .heading h1 {
+      font-size: 2.5rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .about {
+      font-size: 0.9rem;
+    }
+  
+    .heading h1 {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .about,
+    .heading {
+      width: 100%;
+    }
+  
+    .about {
+      padding: 15px;
+    }
+  
+    .heading h1 {
+      font-size: 1.8rem;
+    }
+  }
+  

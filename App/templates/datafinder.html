@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="stylesheet" href="static\datafinder.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg text-white" style="background-color: black;">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/" style="color:#d7d7d7;">DataMasters</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/" style="color:#d7d7d7;">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/DataFinder" style="color:#d7d7d7;">DataFinder</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/DataInsights" style="color:#d7d7d7;">DataInsights</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+  <div class="college-form">
+    <h1>DataFinder</h1>
+    <form action="/DataFinder/Results" method="post">
+        <h5 style="text-align: center; color: aliceblue;">Course</h4>
+          <select class="form-select" aria-label="Default select example" name="course_preference" required>
+            <option value="" selected>Choose...</option>
+            <option value="Artificial Intelligence">Artificial Intelligence</option>
+            <option value="Architecture">Architecture</option>
+            <option value="Civil">Civil</option>
+            <option value="Computer Science and Engineering">Computer Science and Engineering</option>
+            <option value="Data Science">Data Science</option>
+            <option value="Electrical and Electronics">Electrical and Electronics</option>
+            <option value="Electrical and Computers">Electrical and Computers</option>
+            <option value="Environmental Science">Environmental Science</option>
+            <option value="Finance and Accounts">Finance and Accounts</option>
+            <option value="International Relations">International Relations</option>
+            <option value="MBA">MBA</option>
+            <option value="Psychology">Psychology</option>
+            <option value="Public Health">Public Health</option>
+            <option value="Software Engineering">Software Engineering</option>
+          </select>
+
+          <h5 style="text-align: center; color: aliceblue; padding-top: 5px;">Country</h4>
+            <select class="form-select" aria-label="Default select example" name="country_preference" required>
+              <option value="" selected>Choose...</option>
+              <option value="United Kingdom">United Kingdom</option>
+              <option value="United States">United States</option>
+              <option value="Australia">Australia</option>
+              <option value="Canada">Canada</option>
+              <option value="Netherlands">Netherlands</option>
+              <option value="Germany">Germany</option>
+              <option value="Singapore">Singapore</option>
+              <option value="Switzerland">Switzerland</option>
+              <option value="Hong Kong">Hong Kong</option>
+              <option value="Sweden">Sweden</option>
+              <option value="Denmark">Denmark</option>
+              <option value="France">France</option>
+              <option value="Japan">Japan</option>
+              <option value="Italy">Italy</option>
+              <option value="Spain">Spain</option>
+              <option value="New Zealand">New Zealand</option>
+              <option value="Austria">Austria</option>
+              <option value="Norway">Norway</option>
+            </select>
+
+            <h5 style="text-align: center; color: aliceblue; padding-top: 5px;">Max Fees (Year)</h4>
+              <input type="number" class="form-control" aria-label="Amount (to the nearest dollar)" name="max_fees"
+                required>
+              <br>
+              <div style="align-items: center; display: flex; justify-content: center;">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+    </form>
+  </div>
+</body>
+
+</html>

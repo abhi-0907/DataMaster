@@ -1,0 +1,47 @@
+.college-preferences{
+    background-image: url('../static/front-view-blackboard-with-lightbulb-academic-cap.jpg'); /* Adjust the path based on your directory structure */
+    background-size: cover;
+    background-position: center center;
+    height: 100vh; /* Full viewport height */
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 10 auto 10 auto;
+    justify-content: center;
+    color: rgb(16, 16, 16);
+  }
+
+form{
+    color:black;
+    /* border: 2px solid black; 
+    border-radius: 30px;
+    background-color: rgba(16, 16, 16, 0.7); */
+    padding:20px;
+}
+
+#insights-container{
+    background-image: url('../static/front-view-lightbulb-with-academic-cap-copy-space.jpg'); /* Adjust the path based on your directory structure */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat-x;
+    /* height: 100vh; */
+}
+
+#insights-results{
+        height: 100%;
+        /* overflow-y: scroll; */
+        align-items: center;
+        padding: 50px;
+        background-color: rgba(0, 0, 0, 0.519);
+        color: azure;
+}
+
+strong, h2{
+    color: rgba(0, 0, 0, 0.684);
+}

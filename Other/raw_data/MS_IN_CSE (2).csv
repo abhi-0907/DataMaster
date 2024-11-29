@@ -1,0 +1,885 @@
+University Name,State,Country,Course Name,Average Fees (Per Year),Currency
+"Northeastern University, Boston",Massachusetts,United States,MS in Computer Science (Align),31416.0,USD
+"Northeastern University, Boston",Massachusetts,United States,MS in Computer Science,28560.0,USD
+"Texas A&M University, College Station",Texas,United States,Masters in Computer Science,25000.0,USD
+"Texas A&M University, College Station",Texas,United States,MS in Computer Science,18885.0,USD
+The University of Texas at Dallas,Texas,United States,MS in Computer Science,40172.0,USD
+University of Southern California,California,United States,MS in Computer Science,40688.0,USD
+University of Southern California,California,United States,MS in Computer Science - Game Development,38784.0,USD
+University of Southern California,California,United States,MS in Computer Science (Non - Thesis),38784.0,USD
+University of Southern California,California,United States,Masters in Computer Science - Thesis,54251.0,USD
+University of Southern California,California,United States,MS in Computer Science - Scientists and Engineers,47046.0,USD
+University of Southern California,California,United States,MS in Computer Science - Software Engineering,51712.0,USD
+University of Southern California,California,United States,MSc in Computer Science (Computer Networks),38784.0,USD
+Georgia Institute of Technology,Georgia,United States,MS in Computer Science,24300.0,USD
+University of Texas at Austin,Texas,United States,MS in Computer Science (Thesis),38260.0,USD
+University of Texas at Austin,Texas,United States,MS in Computer Science (Coursework),38260.0,USD
+University of Texas at Austin,Texas,United States,MS in Computer Science- Thesis,28695.0,USD
+University at Buffalo SUNY,New York,United States,MS in Computer Science and Engineering,20220.0,USD
+The University of Texas at Arlington,Texas,United States,MS in Computer Science,26360.0,USD
+New York University,New York,United States,MS in Computer Science,35025.0,USD
+New York University,New York,United States,MS in Computer Science (Courant Campus),38826.0,USD
+San Jose State University,California,United States,MS in Computer Science,17226.0,USD
+San Jose State University,California,United States,Masters in Computer Science,16236.0,USD
+Purdue University West Lafayette,Indiana,United States,MS in Computer Science - Thesis,35640.0,USD
+Purdue University West Lafayette,Indiana,United States,MS in Computer Science - Non-Thesis,28830.0,USD
+"North Carolina State University, Raleigh",North Carolina,United States,MS in Computer Science (Data Science),25343.0,USD
+"North Carolina State University, Raleigh",North Carolina,United States,MS in Computer Science,25343.0,USD
+"North Carolina State University, Raleigh",North Carolina,United States,MS in Computer Science - Software Engineering,25343.0,USD
+University of Illinois at Chicago,Illinois,United States,MS in Computer Science (Coursework),23310.0,USD
+University of Illinois at Chicago,Illinois,United States,MS in Computer Science (Thesis),23328.0,USD
+University of Illinois at Chicago,Illinois,United States,MS in Computer Science (Project),20736.0,USD
+Carnegie Mellon University,Pennsylvania,United States,MS in Computer Science,57528.0,USD
+Carnegie Mellon University,Pennsylvania,United States,MS in Computer Vision,62156.0,USD
+"University of California, San Diego",California,United States,MS in Computer Science and Engineering (Thesis),27366.0,USD
+"University of California, San Diego",California,United States,MS in Computer Science and Engineering,24320.0,USD
+"University of California, San Diego",California,United States,MS in Computer Science And Engineering,11442.0,USD
+"University of Maryland, College Park",Maryland,United States,MS in Computer Science,27075.0,USD
+"The University of British Columbia, Vancouver",British Columbia,Canada,MSc in Computer Science,9690.0,CAD
+Arizona State University,Arizona,United States,"MS in Computer Science (Art, Media and Engineering)",24075.0,USD
+Arizona State University,Arizona,United States,MS in Computer Science (Big Data Systems),24075.0,USD
+Arizona State University,Arizona,United States,MS in Computer Science,24075.0,USD
+Arizona State University,Arizona,United States,MCS in Computer Science (Cybersecurity),24075.0,USD
+Arizona State University,Arizona,United States,Masters in Computer Science,24075.0,USD
+Arizona State University,Arizona,United States,MS in Computer Science (Bio-Medical Informatics),24075.0,USD
+Arizona State University,Arizona,United States,Masters in Computer Science (Big Data Systems),22050.0,USD
+University of North Carolina at Charlotte,North Carolina,United States,MS in Computer Science,21140.0,USD
+"University of Michigan, Ann Arbor",Michigan,United States,MS in Computer Science and Engineering,108840.0,USD
+Illinois Institute of Technology,Illinois,United States,MS in Computer Science,27392.0,USD
+Illinois Institute of Technology,Illinois,United States,MASc in Computer Science,34240.0,USD
+University of Florida,Florida,United States,MS in Computer Science,30134.0,USD
+Columbia University,New York,United States,MS in Computer Science- Computer Security,49240.0,USD
+Columbia University,New York,United States,MS in Computer Science,49240.0,USD
+University of Illinois at Urbana-Champaign,Illinois,United States,Masters in Computer Science - Professional,38276.0,USD
+University of Illinois at Urbana-Champaign,Illinois,United States,MS in Computer Science,38276.0,USD
+University of Illinois at Urbana-Champaign,Illinois,United States,Masters in Computer Science,36798.0,USD
+"University of California, Berkeley",California,United States,MS in Computer Science,27366.0,USD
+Pennsylvania State University,Pennsylvania,United States,MS in Computer Science and Engineering,46790.0,USD
+Pennsylvania State University,Pennsylvania,United States,MEng in Computer Science and Engineering,46790.0,USD
+Pennsylvania State University,Pennsylvania,United States,MS in Computer Science,33396.0,USD
+"University of California, Los Angeles",California,United States,MS in Computer Science,27366.0,USD
+"University of California, Irvine",California,United States,Masters in Computer Science,43920.0,USD
+"University of California, Irvine",California,United States,MSc in Computer Science,36000.0,USD
+"University of Minnesota, Twin Cities",Minnesota,United States,MS in Computer Science,21824.0,USD
+University of Pennsylvania,Pennsylvania,United States,MSc(Eng) in Computer and Information Science,78650.0,USD
+University of Pennsylvania,Pennsylvania,United States,Masters in Computer and Information Technology,37710.0,USD
+University of Washington,Washington,United States,MS in Computer Science & Software Engineering,27753.0,USD
+University of Washington,Washington,United States,MSc in Computer Science & Software Engineering,19918.0,USD
+University of Washington,Washington,United States,Masters in Computer Science and engineering,16896.0,USD
+University of Washington,Washington,United States,MS in Computer Science & Software Engineering,19918.0,USD
+"Rutgers University, New Brunswick",New Jersey,United States,MS in Computer Science,25452.0,USD
+Rutgers University-New Brunswick,New Jersey,United States,MS in Computer Science - Massive Data Analytics,18840.0,USD
+University of Toronto,Ontario,Canada,MSc in Applied Computing - Computer Science,58496.0,CAD
+University of Toronto,Ontario,Canada,MSc in Computer Science,59181.0,CAD
+Massachusetts Institute of Technology,Massachusetts,United States,MS in A.I.,,USD
+Virginia Tech,Virginia,United States,MS in Computer Science,26400.0,USD
+Virginia Tech,Virginia,United States,MEng in Computer Science,35200.0,USD
+Virginia Tech,Virginia,United States,MS in Computer Science (Thesis),24390.0,USD
+Virginia Tech,Virginia,United States,MS in Computer science ( Coursework Option ),24390.0,USD
+Stony Brook University,New York,United States,MS in Computer Science,21080.0,USD
+Stony Brook University,New York,United States,MS in Computer Science- Data Science and Engineering,19902.0,USD
+University of Cincinnati,Ohio,United States,MS in Computer Science,21995.0,USD
+University of Cincinnati,Ohio,United States,MEng in Computer Science,39990.0,USD
+University of Waterloo,Ontario,Canada,Masters in Computer Science,23088.0,CAD
+University of Waterloo,Ontario,Canada,Masters in Mathematics (Computer Science),25537.0,CAD
+University of Waterloo,Ontario,Canada,Masters in Mathematics (Computer Science) -Thesis,23088.0,CAD
+Syracuse University,New York,United States,MS in Computer Science,28080.0,USD
+New Jersey Institute of Technology,New Jersey,United States,MS in Computer Science,35200.0,USD
+University of Massachusetts Amherst,Massachusetts,United States,MS in Computer Science,27825.0,USD
+University of Massachusetts Amherst,Massachusetts,United States,MS in Computer Science - Data Science,25095.0,USD
+University of Colorado Boulder,Colorado,United States,Masters in Computer Science - Professional,32500.0,USD
+University of Colorado Boulder,Colorado,United States,MS in Computer Science,41800.0,USD
+Rochester Institute of Technology,New York,United States,MS in Computer Science (Project Option),49260.0,USD
+Rochester Institute of Technology,New York,United States,MS in Computer Science (Thesis),36945.0,USD
+Rochester Institute of Technology,New York,United States,MS in Computer Science,54176.0,USD
+Stanford University,California,United States,MS in Computer Science,47985.0,USD
+Cornell University,New York,United States,MEng in Computer Science,68380.0,USD
+Cornell University,New York,United States,MS in Computer Science,29500.0,USD
+Stevens Institute of Technology,New Jersey,United States,MS in Computer Science,47580.0,USD
+Stevens Institute of Technology,New Jersey,United States,MS in Enterprise Cloud Computing,,USD
+University of Houston,Texas,United States,MS in Computer Science,18840.0,USD
+University of South Florida,Florida,United States,MS in Computer Science,17620.0,USD
+Northwestern University,Illinois,United States,MS in Computer Science,64650.0,USD
+University of Wisconsin-Madison,Wisconsin,United States,Masters in Computer Sciences - Professional,25578.0,USD
+University of Wisconsin-Madison,Wisconsin,United States,MS in Computer Science,30060.0,USD
+University of Wisconsin-Madison,Wisconsin,United States,MS in Computer Science (duplicate),25578.0,USD
+"University of California, Davis",California,United States,MS in Computer Science,27366.0,USD
+Michigan State University,Michigan,United States,MS in Computer Science,36200.0,USD
+Michigan State University,Michigan,United States,MS in Computer Science and Engineering,29772.0,USD
+McGill University,Montreal,Canada,MSc in Computer Science (Thesis),19728.0,CAD
+McGill University,Montreal,Canada,MSc in Computer Science (Non-Thesis),42650.0,CAD
+San Diego State University,California,United States,MS in Computer Science,15645.0,USD
+"University of Maryland, Baltimore County",Maryland,United States,MS in Computer Science,18555.0,USD
+Ohio State University,Ohio,United States,MS in Computer Science and Engineering (Thesis),44110.0,USD
+Ohio State University,Ohio,United States,MS in Computer Science and Engineering - Non Thesis,44110.0,USD
+Ohio State University,Ohio,United States,MS in Computer Science and Engineering,42253.0,USD
+Georgia State University,Georgia,United States,MS in Computer Science,30216.0,USD
+Indiana University Bloomington,Indiana,United States,MS in Computer Science,22320.0,USD
+"California State University, Fullerton",California,United States,MS in Computer Science,19260.0,USD
+"California State University, Long Beach",California,United States,MS in Computer Science,14445.0,USD
+George Mason University,Virginia,United States,MS in Computer Science,29720.0,USD
+Clemson University,South Carolina,United States,MS in Computer Science,25960.0,USD
+University of Windsor,Ontario,Canada,MSc in Computer Science,25590.0,CAD
+University of Windsor,Ontario,Canada,Masters in Computer Science,1413.0,CAD
+University of Arizona,Arizona,United States,MS in Computer Science - Non Thesis,26910.0,USD
+University of Arizona,Arizona,United States,MS in Computer Science (Thesis),26910.0,USD
+Boston University,Massachusetts,United States,MS in Computer Science - Cyber Security,63798.0,USD
+Boston University,Massachusetts,United States,MS in Computer Science,72412.0,USD
+Boston University,Massachusetts,United States,MS in Computer Science (General),63798.0,USD
+Iowa State University,Iowa,United States,MS in Computer Science,30960.0,USD
+Concordia University,Montreal,Canada,Masters in Computer Science (Thesis),17288.0,CAD
+Concordia University,Montreal,Canada,Masters in Applied Computer Science,18363.0,CAD
+"Concordia University, Montreal",Quebec,Canada,Masters in Computer Science,14366.0,CAD
+California Institute Of Technology,California,United States,MS in Computer Science,63402.0,USD
+Colorado State University,Colorado,United States,MS in Computer Science,29400.0,USD
+Colorado State University,Colorado,United States,MS in Computer Science,26550.0,USD
+"University of California, Santa Barbara",California,United States,MS in Computer Science,28572.0,USD
+"California State University, Los Angeles",California,United States,MS in Computer Science,16245.0,USD
+Michigan Technological University,Michigan,United States,MS in Computer Science - Coursework,29160.0,USD
+Johns Hopkins University,Maryland,United States,MSE in Computer Science,69124.0,USD
+Texas A&M University - Kingsville,Texas,United States,MS in Computer Science,14346.0,USD
+University of North Texas,Texas,United States,MS in Computer Science,28217.0,USD
+University of North Texas,Texas,United States,MS in Professional Computer Science,14445.0,USD
+"California State University, East Bay",California,United States,MS in Computer Science,18480.0,USD
+University of Ottawa,Ottawa,Canada,Masters in Computer Science - Bioinformatics,16845.0,CAD
+University of Ottawa,Ottawa,Canada,Masters in Computer Science - Coursework and Project,17325.0,CAD
+University of Ottawa,Ottawa,Canada,Masters in Computer Science - Applied Artificial Intelligence,16847.0,CAD
+University of Ottawa,Ottawa,Canada,"Masters in Computer Science, Concentration in Artificial Intelligence",26634.0,CAD
+"University of California,  Riverside",California,United States,MS in Computer Science,18244.0,USD
+Duke University,North Carolina,United States,MS in Computer Science,65120.0,USD
+The University of Utah,Utah,United States,MS in Computer Science,17850.0,USD
+University of North Carolina at Chapel Hill,North Carolina,United States,MS in Computer Science,32370.0,USD
+Simon Fraser University,British Columbia,Canada,MS in Professional Computer Science - Big Data,35662.0,CAD
+"Simon Fraser University, Burnaby",British Columbia,Canada,PG Diploma in Computing Science,,CAD
+Texas Tech University,Texas,United States,MS in Computer Science,19460.0,USD
+University of Dayton,Ohio,United States,MS in Computer Science,15825.0,USD
+Cleveland State University,Ohio,United States,Masters in Computer Science - Computer Information Science,20960.0,USD
+Cleveland State University,Ohio,United States,MCS in Computer Science,20960.0,USD
+State University of New York at Binghamton,New York,United States,MS in Computer Science,20481.0,USD
+Carleton University,Ottawa,Canada,Masters in Computer Science,21097.0,CAD
+"Carleton University, Ottawa",Ottawa,Canada,Masters in Computer Science,21375.0,CAD
+"California State University, Sacramento",California,United States,MS in Computer Science,20860.0,USD
+University of Pittsburgh,Pennsylvania,United States,MS in Computer Science,46060.0,USD
+University of Calgary,Alberta,Canada,MSc in Computer Science,8574.0,CAD
+"University of California, Santa Cruz",California,United States,MS in Computer Science and Engineering,29934.0,USD
+"University of California, Santa Cruz",California,United States,MS in Computer Science and Engineering,29280.0,USD
+"Rutgers University, Newark",New Jersey,United States,MS in Computer Science,38534.0,USD
+Dalhousie University,Nova Scotia,Canada,Masters in Applied Computer Science,20453.0,CAD
+Dalhousie University,Nova Scotia,Canada,Masters in Computer Science,20401.0,CAD
+Oklahoma State University - Stillwater,Oklahoma,United States,MS in Computer Science,18447.0,USD
+York University,Toronto,Canada,MSc in Computer Science,18787.0,CAD
+York University,Toronto,Canada,MS in Computer Science,18787.0,CAD
+McMaster University,Hamilton,Canada,MSc in Computer Science,44907.0,CAD
+The George Washington University,District of Columbia,United States,MS in Computer Science,31950.0,USD
+Oregon State University,Oregon,United States,MEng in Computer Science,25785.0,USD
+Oregon State University,Oregon,United States,MS in Computer Science,27113.0,USD
+Oregon State University,Oregon,United States,Masters in Computer Science,24863.0,USD
+Indiana University - Purdue University Indianapolis,Indiana,United States,MS in Computer Information Science,21860.0,USD
+University of Houston - Clear Lake,Texas,United States,MS in Computer Science - Thesis,16005.0,USD
+University of Central Florida,Florida,United States,MS in Computer Vision,17910.0,USD
+University of Central Florida,Florida,United States,MS in Computer Science,17910.0,USD
+Toronto Metropolitan University,Toronto,Canada,MSc in Computer Science - Thesis,26380.0,CAD
+Toronto Metropolitan University,Toronto,Canada,MSc in Computer Science (Course only Option),26380.0,CAD
+University of Virginia,Virginia,United States,MS in Computer Science,39926.0,USD
+Princeton University,New Jersey,United States,MSE in Computer Science,59710.0,USD
+Princeton University,New Jersey,United States,MEng in Computer Science,59710.0,USD
+Yale University,Connecticut,United States,MS in Computer Science,48300.0,USD
+Northern Illinois University,Illinois,United States,MS in Computer Science,19406.0,USD
+RWTH Aachen University,North Rhine-Westphilia,Germany,MSc in Computer Science,,EUR
+RWTH Aachen University,North Rhine-Westphilia,Germany,Masters in Teaching (Computer Science),,EUR
+"California State University, Northridge",California,United States,MS in Computer Science,15915.0,USD
+University of Colorado at Denver,Colorado,United States,MS in Computer Science,22860.0,USD
+Florida State University,Florida,United States,MS in Computer Science - Project Option,22200.0,USD
+Florida State University,Florida,United States,MS in Computer Science - Thesis,22220.0,USD
+University of New Haven,Connecticut,United States,MS in Computer Science,21840.0,USD
+University of Rochester,New York,United States,MS in Computer Science,65870.0,USD
+University of Connecticut,Connecticut,United States,MEng in Computer Science and Engineering,26000.0,USD
+University of Connecticut,Connecticut,United States,MS in Computer Science and Engineering,46040.0,USD
+"New York Institute of Technology, NY Campus",New York,United States,MS in Computer Science,32400.0,USD
+Missouri University of Science and Technology,Missouri,United States,MS in Computer Science,23250.0,USD
+"California State University, Fresno",California,United States,MS in Computer Science,13620.0,USD
+State University of New York (Albany),New York,United States,MS in Computer Science,30442.0,USD
+University of Victoria,British Columbia,Canada,MSc in Computer Science,8222.0,CAD
+"University of Massachusetts, Boston",Massachusetts,United States,MS in Computer Science,31500.0,USD
+Drexel University,Pennsylvania,United States,MS in Computer Science,31095.0,USD
+Rice University,Texas,United States,Masters in Computer Science,59784.0,USD
+Delft University of Technology,South Holland,Netherlands,MSc in Computer Science,21515.0,EUR
+The University of Melbourne,Victoria,Australia,Masters in Computer Science,53792.0,AUD
+Pace University,New York,United States,MS in Computer Science,31800.0,USD
+"University of Missouri, Kansas City",Missouri,United States,MSc in Computer Science,24500.0,USD
+The University of Chicago,Illinois,United States,MS in Computer Science,59337.0,USD
+Kansas State University,Kansas,United States,MS in Computer Science,15105.0,USD
+Worcester Polytechnic Institute,Massachusetts,United States,MS in Computer Science,32200.0,USD
+San Francisco State University,California,United States,MS in Computer Science,21700.0,USD
+Wichita State University,Kansas,United States,MS in Computer Science,16020.0,USD
+Lakehead University,Thunder Bay,Canada,MSc in Computer Science (Thesis),24720.0,CAD
+Wright State University,Ohio,United States,MS in Computer Science,17175.0,USD
+Brown University,Rhode Island,United States,MSc in Computer Science,81192.0,USD
+National University Of Singapore,Singapore,Singapore,Masters in Computing - Computer Science,38186.0,SGD
+University of Massachusetts Lowell,Massachusetts,United States,MS in Computer Science,31540.0,USD
+West Virginia University,West Virginia,United States,MS in Computer Science,35051.0,USD
+Technical University of Berlin,Berlin,Germany,MSc in Computer Science,145.0,EUR
+"California State University, Chico",California,United States,MS in Computer Science,19440.0,USD
+The University of Central Missouri,Missouri,United States,MS in Computer Science,10680.0,USD
+Washington State University,Washington,United States,MS in Computer Science,21945.0,USD
+Southern Methodist University,Texas,United States,MS in Computer Science,24000.0,USD
+Wayne State University,Michigan,United States,MS in Computer Science,35480.0,USD
+University of San Francisco,California,United States,MS in Computer Science,29880.0,USD
+University of Illinois at Springfield,Illinois,United States,MS in Computer Science,11930.0,USD
+Kent State University,Ohio,United States,MA in Computer Science,15984.0,USD
+Kent State University,Ohio,United States,MS in Computer Science,17056.0,USD
+Lehigh University,Pennsylvania,United States,MEng in Computer Science,23850.0,USD
+Lehigh University,Pennsylvania,United States,MS in Computer Science,23850.0,USD
+Case Western Reserve University,Ohio,United States,MS in Computer Science,44960.0,USD
+Florida International University,Florida,United States,MS in Computer Science,20040.0,USD
+University of Alabama at Birmingham,Alabama,United States,MS in Computer Science,24460.0,USD
+University of Oklahoma,Oklahoma,United States,MS in Computer Science - Non Thesis,19701.0,USD
+Dartmouth College,New Hampshire,United States,MS in Computer Science,74298.0,USD
+University of Iowa,Iowa,United States,MS in Computer Science,26848.0,USD
+University of South Carolina,South Carolina,United States,MS in Computer Science,29760.0,USD
+Rensselaer Polytechnic Institute,New York,United States,MS in Computer Science,40240.0,USD
+Texas A&M University - Corpus Christi,Texas,United States,MS in Computer Science,13060.0,USD
+Arkansas State University,Arkansas,United States,MS in Computer Science,11996.0,USD
+Western University,Ontario,Canada,MSc in Computer Science,17471.0,CAD
+"University of Alabama, Huntsville",Alabama,United States,MS in Computer Science,25905.0,USD
+Florida Institute of Technology,Florida,United States,MS in Computer Science,26200.0,USD
+University of Saskatchewan,Saskatchewan,Canada,MSc in Computer Science,11075.0,CAD
+Portland State University,Oregon,United States,MS in Computer Science,22260.0,USD
+Washington University in St. Louis,Missouri,United States,MS in Computer Science,64500.0,USD
+Washington University in St. Louis,Missouri,United States,MEng in Computer Science and Engineering,64500.0,USD
+Northwest Missouri State University,Missouri,United States,MS in Applied Computer Science,8481.0,USD
+DePaul University,Illinois,United States,MS in Computer Science,22032.0,USD
+"University of Missouri, Columbia",Missouri,United States,MS in Computer Science,28000.0,USD
+The University of New South Wales,New South Wales,Australia,MSc in Computer Science,14500.0,AUD
+Imperial College London,London,United Kingdom,MSc in Advanced Computing,41750.0,GBP
+University of Regina,Saskatchewan,Canada,MSc in Computer Science,27609.0,CAD
+University of Montreal,Montreal,Canada,Masters in Computer Science,15413.0,CAD
+University of Montreal,Quebec,Canada,MSc in Computer Science,14535.0,CAD
+University of Wisconsin-Milwaukee,Wisconsin,United States,MS in Computer Science,27690.0,USD
+Western Michigan University,Michigan,United States,MS in Computer Science,25872.0,USD
+The University of Kansas,Kansas,United States,MS in Computer Science,34290.0,USD
+University of Massachusetts Dartmouth,Massachusetts,United States,MS in Computer Science,24640.0,USD
+University of Texas at San Antonio,Texas,United States,MS in Computer Science,24294.0,USD
+University of Delaware,Delaware,United States,MS in Computer Science,30795.0,USD
+Texas A&M University-Commerce,Texas,United States,MS in Computer Science,15078.0,USD
+Texas State University,Texas,United States,MS in Computer Science (Non-thesis),13986.0,USD
+University of Manitoba,Manitoba,Canada,MSc in Computer Science,13548.0,CAD
+University of Manitoba,Manitoba,Canada,MSc in Computer Science,19494.0,CAD
+University of Manitoba,Manitoba,Canada,MSc in Computer Science,18971.0,CAD
+Lamar University,Texas,United States,MS in Computer Science (Non-Thesis),14412.0,USD
+ETH Zurich,Z'rich,Switzerland,MSc in Computer Science,1460.0,CHF
+Nanyang Technological University,Singapore,Singapore,MEng in Computer Science and Engineering,21000.0,SGD
+University of Ontario Institute of Technology,Ontario,Canada,MSc in Computer Science,20124.0,CAD
+University of Georgia,Georgia,United States,MS in Computer Science (Non-Thesis),16800.0,USD
+Alabama A&M University,Alabama,United States,MS in Computer Science,15120.0,USD
+Memorial University of Newfoundland,Newfoundland & Labrador,Canada,MSc in Computer Science (Course-Based),7800.0,CAD
+University of Cambridge,Cambridgeshire,United Kingdom,MPhil in Advanced Computer Science,41694.0,GBP
+University of Oxford,Oxfordshire,United Kingdom,MSc in Advanced Computer Science,36000.0,GBP
+University of New Brunswick,New Brunswick,Canada,Masters in Computer Science - Thesis,18759.0,CAD
+University of New Brunswick,New Brunswick,Canada,Masters in Computer Science (Coursework),15230.0,CAD
+University of Stuttgart,Baden-Warttemberg,Germany,MSc in Computer Science,3000.0,EUR
+Purdue University Northwest,Indiana,United States,MS in Computer Science,14895.0,USD
+Purdue University Northwest,Indiana,United States,MS in Computer Science,10140.0,USD
+Mississippi State University,Mississippi,United States,MS in Computer Science,22754.0,USD
+Utah State University,Utah,United States,Masters in Computer Science,21929.0,USD
+"New York Institute of Technology, Old Westbury",New York,United States,MS in Computer Science,32400.0,USD
+University of Tennessee at Knoxville,Tennessee,United States,MS in Computer Science,22520.0,USD
+Tufts University,Massachusetts,United States,MS in Computer Science,51900.0,USD
+Hamburg University of Technology,Hamburg,Germany,MSc in Computer Science in Engineering,684.0,EUR
+"Deakin University, Melbourne",Victoria,Australia,MS in Computer Science,,AUD
+Northern Arizona University,Arizona,United States,MS in Computer Science,25290.0,USD
+Temple University,Pennsylvania,United States,MS in Computer Science,33920.0,USD
+"Southern Illinois University, Edwardsville",Illinois,United States,MS in Computer Science,15780.0,USD
+"Southern Illinois University, Carbondale",Illinois,United States,MS in Computer Science,23480.0,USD
+Central Michigan University,Michigan,United States,MS in Computer Science,14355.0,USD
+The University of Sydney,New South Wales,Australia,Masters in Computer Science,55100.0,AUD
+RMIT University,Victoria,Australia,MSc in Computer Science by Research,36480.0,AUD
+University of Bridgeport,Connecticut,United States,MS in Computer Science,26435.0,USD
+Louisiana State University,Louisiana,United States,MS in Computer Science,30266.0,USD
+University of New Hampshire,New Hampshire,United States,MS in Computer Science,42000.0,USD
+KTH Royal Institute of Technology,Stockholms l'n,Sweden,MSc in Computer Simulations for Science and Engineering,14000.0,SEK
+"KTH, Royal Institute of Technology",Stockholms l'n,Sweden,MSc in Computer Science,155000.0,SEK
+Chicago State University,Illinois,United States,MS in Computer Science,12150.0,USD
+Penn State Harrisburg,Pennsylvania,United States,MS in Computer Science,34746.0,USD
+Dresden University of Technology,Sohag,Germany,MS in Computer Science,1000.0,EUR
+University of Notre Dame,Indiana,United States,MS in Computer Science and Engineering,64356.0,USD
+Technische Universität Darmstadt,Hesse,Germany,MSc in Computer Science,,EUR
+The University of Edinburgh,Edinburgh,United Kingdom,MSc in Computer Science,40900.0,GBP
+"University of Nebraska, Lincoln",Nebraska,United States,MS in Computer Science,26600.0,USD
+University College London,London,United Kingdom,MSc in Computer Science,37500.0,GBP
+Lawrence Technological University,Michigan,United States,MS in Computer Science,20850.0,USD
+Lawrence Technological University,Michigan,United States,Masters in Computer Science,15300.0,USD
+University of Guelph,Ontario,Canada,MSc in Computer Science,20511.0,CAD
+Colorado School of Mines,Colorado,United States,MS in Computer Science (Non-Thesis),47600.0,USD
+Friedrich-Alexander-University Erlangen-Nürnberg,Bavaria,Germany,MS in Computer Science,,EUR
+Ohio University,Ohio,United States,MS in Computer Science,16185.0,USD
+Laval University,Quebec,Canada,MSc in Computer Science,17640.0,CAD
+Vanderbilt University,Tennessee,United States,MS in Computer Science,46980.0,USD
+The University of Queensland,Queensland,Australia,MS in Computer Science,51200.0,AUD
+The University of Queensland,Queensland,Australia,Masters in Computer Science (Management),51200.0,AUD
+The University of Queensland,Queensland,Australia,Masters in Computer Science,51200.0,AUD
+Technical University of Dortmund,North Rhine-Westphilia,Germany,Masters in Computer Science,628.0,EUR
+"California State University, San Bernardino",California,United States,MS in Computer Science,16167.0,USD
+Concordia University - Ann Arbor,Michigan,United States,MS in Computer Science,,USD
+North Dakota State University,North Dakota,United States,MS in Computer Science,14598.0,USD
+California Polytechnic State University,California,United States,MS in Computer Science,23196.0,USD
+Penn State Great Valley,Pennsylvania,United States,MEng in Computer Science and Engineering,56310.0,USD
+Penn State Great Valley,Pennsylvania,United States,MS in Computer Science and Engineering,37540.0,USD
+Australian National University,Australian Capital Territory,Australia,Masters in Computing,53370.0,AUD
+"California State Polytechnic University, Pomona",California,United States,MS in Computer Science,11880.0,USD
+University of New Mexico,New Mexico,United States,MS in Computer Science,19840.0,USD
+Saarland University,Saarland,Germany,MSc in Computer Science,,EUR
+Saarland University,Saarland,Germany,MSc in Visual Computing,636.0,EUR
+Brock University,Ontario,Canada,MSc in Computer Science,20226.0,CAD
+"The City College of New York, CCNY",New York,United States,MS in Computer Science,17100.0,USD
+Western Illinois University,Illinois,United States,MS in Computer Science,15540.0,USD
+University of Texas at Tyler,Texas,United States,MS in Computer Science,22770.0,USD
+Georgetown University,District of Columbia,United States,MS in Computer Science (Coursework),36780.0,USD
+Indiana State University,Indiana,United States,MS in Computer Science,14603.0,USD
+State University of New York Polytechnic Institute,New York,United States,MS in Computer Science,15890.0,USD
+Eastern Michigan University,Michigan,United States,MS in Computer Science,36124.0,USD
+University of Memphis,Tennessee,United States,MS in Computer Science,16137.0,USD
+Fairleigh Dickinson University,New Jersey,United States,MS in Computer Science,18360.0,USD
+Fairleigh Dickinson University,New Jersey,United States,Graduate certificate in Advanced Computer Programming,8262.0,USD
+Fairleigh Dickinson University,New Jersey,United States,Graduate certificate in Computer Security,8262.0,USD
+Bowling Green State University,Ohio,United States,MS in Computer Science,13442.0,USD
+The University of Adelaide,South Australia,Australia,Masters in Computer Science,51500.0,AUD
+University of Adelaide,South Australia,Australia,Graduate certificate in Computer Science,24000.0,AUD
+Seattle University,Washington,United States,MS in Computer Science,30330.0,USD
+Seattle University,Washington,United States,Masters in Computer Science,21308.0,USD
+State University of New York at New Paltz,New York,United States,MS in Computer Science,19260.0,USD
+University of Arkansas,Arkansas,United States,MS in Computer Science,23034.0,USD
+University of Oregon,Oregon,United States,MS in Computer Science,30726.0,USD
+The University of Alabama,Alabama,United States,MS in Computer Science,36000.0,USD
+Northeastern Illinois University,Illinois,United States,MS in Computer Science,27540.0,USD
+University of Denver,Colorado,United States,MS in Computer Science,38688.0,USD
+University of Warwick,Coventry,United Kingdom,MSc in Computer Science by Research,29470.0,GBP
+University of Warwick,Coventry,United Kingdom,MSc in Computer Science,33340.0,GBP
+Ecole Polytechnique Fédérale de Lausanne,Vaud,Switzerland,Masters in Computer Science,1460.0,CHF
+University of Missouri-St. Louis,Missouri,United States,MS in Computer Science,29200.0,USD
+North Carolina Agricultural and Technical State University,North Carolina,United States,MS in Computer Science,29490.0,USD
+University of Leeds,Leeds,United Kingdom,MSc in Advanced Computer Science (Cloud Computing),31750.0,GBP
+University of Leeds,Leeds,United Kingdom,MSc in Advanced Computer Science (Artificial Intelligence),31750.0,GBP
+University of Leeds,Leeds,United Kingdom,MSc in Advanced Computer Science,31750.0,GBP
+University of Leeds,Leeds,United Kingdom,MSc in Advanced Computer Science (Data Analytics),28000.0,GBP
+Curtin University,Western Australia,Australia,MPhil in Computer Science - Research,38000.0,AUD
+Concordia University of Edmonton,Alberta,Canada,MS in Information Technology,26499.0,CAD
+Eindhoven University of Technology,North Brabant,Netherlands,MSc in Computer Science and Engineering,19300.0,EUR
+Rowan University,New Jersey,United States,MS in Computer Science,11985.0,USD
+University of Miami,Florida,United States,MS in Computer Science,48420.0,USD
+Grand Valley State University,Michigan,United States,MS in Applied Computer Science,25509.0,USD
+Old Dominion University,Virginia,United States,MS in Computer Science,24463.0,USD
+"Long Island University, Brooklyn",New York,United States,MS in Computer Science (Blended),24336.0,USD
+"Long Island University, Brooklyn",New York,United States,MS in Computer Science (Blended),24336.0,USD
+"Long Island University, Brooklyn",New York,United States,MS in Computer Science (Blended),24336.0,USD
+"Long Island University, Brooklyn",New York,United States,MS in Computer Science (Blended),24336.0,USD
+"Long Island University, Brooklyn",New York,United States,MS in Computer Science,24336.0,USD
+"City University Of New York, Brooklyn College",New York,United States,MS in Computer Science,17100.0,USD
+"California State University, San Marcos",California,United States,MS in Computer Science,17158.0,USD
+Governors State University,Illinois,United States,MS in Computer Science,19184.0,USD
+South Dakota State University,South Dakota,United States,MS in Computer Science (Thesis),13080.0,USD
+University of Kentucky,Kentucky,United States,MS in Computer Science,35459.0,USD
+"University of Nevada, Las Vegas",Nevada,United States,MS in Computer Science,20145.0,USD
+University of Northern British Columbia,British Columbia,Canada,MSc in Computer Science,7644.0,CAD
+"California State University, Dominguez Hills",California,United States,MS in Computer Science,16542.0,USD
+"California State University, Dominguez Hills",California,United States,MS in Computer Science,16542.0,USD
+University of Akron,Ohio,United States,MS in Computer Science,11730.0,USD
+University of North Carolina at Greensboro,North Carolina,United States,MS in Computer Science,22320.0,USD
+King's College London,London,United Kingdom,MSc in Advanced Computing,35244.0,GBP
+University of Amsterdam,Amsterdam,Netherlands,MSc in Computer Science,17380.0,EUR
+The University of Toledo,Ohio,United States,MS in Engineering - Computer Science Engineering,16845.0,USD
+Chemnitz University of Technology,Sohag,Germany,Masters in Applied Computer Science,700.0,EUR
+Chemnitz University of Technology,Sohag,Germany,MS in Computer Science,,EUR
+Dakota State University,South Dakota,United States,MS in Computer Science,11930.0,USD
+University of Wollongong,New South Wales,Australia,Masters in Computer Science,37200.0,AUD
+University of Wollongong,New South Wales,Australia,Masters in Computer Science (Network and Information Security),37200.0,AUD
+University of Wollongong,New South Wales,Australia,Masters in Computer Science (Network and Information Security),37200.0,AUD
+University of Wollongong,New South Wales,Australia,Masters in Computer Science (Software Engineering),37200.0,AUD
+University of Wollongong,New South Wales,Australia,Masters in Computer Science (Network and Information Security),37200.0,AUD
+University of Wollongong,New South Wales,Australia,Masters in Computer Science (Network and Information Security),37200.0,AUD
+Albert Ludwig University of Freiburg,Baden-Warttemberg,Germany,MSc in Computer Science,3000.0,EUR
+Braunschweig University of Technology,Lower Saxony,Germany,Masters in Medical Computer Science,,EUR
+Technical University of Kaiserslautern,Rhineland-Palatinate,Germany,MSc in Computer Science,,EUR
+Technical University of Kaiserslautern,Rhineland-Palatinate,Germany,Masters in Computer Science - Business Studies and Engineering,490.0,EUR
+Technical University of Kaiserslautern,Rhineland-Palatinate,Germany,Masters in Social Computing,490.0,EUR
+Technical University of Kaiserslautern,Rhineland-Palatinate,Germany,Masters in Computer Science,,EUR
+The University of Manchester,Manchester,United Kingdom,MSc in Advanced Computer Science,36000.0,GBP
+"California State University, Channel Islands",California,United States,MS in Computer Science,8400.0,USD
+Villanova University,Pennsylvania,United States,MS in Computer Science,18500.0,USD
+"University of Nebraska, Omaha",Nebraska,United States,MS in Computer Science,22638.0,USD
+University of Mississippi,Mississippi,United States,MS in Engineering Science - Computer Science,29800.0,USD
+University of Bath,Bath and North East Somerset,United Kingdom,MSc in Computer Science,28300.0,GBP
+Clarkson University,New York,United States,MS in Computer Science,30000.0,USD
+University of Louisville,Kentucky,United States,MS in Computer Science,14453.0,USD
+University of Idaho,Idaho,United States,MS in Computer Science,30206.0,USD
+University of Quebec in Montreal,Quebec,Canada,MSc in Computer Science,14783.0,CAD
+University of Quebec in Montreal,Quebec,Canada,MSc in Computer Science for Intelligence and Data Management,14783.0,CAD
+Adelphi University,New York,United States,MS in Computer Science,31000.0,USD
+Chalmers University of Technology,Stockholms l'n,Sweden,"MSc in Computer Science - Algorithms, Languages And Logic",160000.0,SEK
+Kennesaw State University,Georgia,United States,MS in Computer Science,31980.0,USD
+New Mexico State University,New Mexico,United States,MS in Computer Science,17441.0,USD
+"University of Washington, Tacoma",Washington,United States,MS in Computer Science and Systems,36880.0,USD
+"University of Washington, Tacoma",Washington,United States,MS in Computer Science and Systems,35120.0,USD
+Nova Southeastern University,Florida,United States,MS in Computer Science,29070.0,USD
+The University of Texas at El Paso,Texas,United States,MS in Computer Science,18378.0,USD
+Leibniz University of Hannover,Lower Saxony,Germany,MS in Computer Science,802.0,EUR
+University of Colorado at Colorado Springs,Colorado,United States,MS in Computer Science,22065.0,USD
+Montana State University at Bozeman,Montana,United States,MS in Computer Science,27620.0,USD
+Royal Military College of Canada,Kingston,Canada,MS in Computer Science,21975.0,CAD
+Royal Military College of Canada,Kingston,Canada,Master in Computer Science,21975.0,CAD
+Florida Atlantic University,Florida,United States,MS in Computer Science,20540.0,USD
+"University of Nevada, Reno",Nevada,United States,MS in Computer Science & Engineering,20073.0,USD
+National University,California,United States,MS in Computer Science,17091.0,USD
+Virginia Commonwealth University,Virginia,United States,MS in Computer Science,30620.0,USD
+University of Twente,Overijssel,Netherlands,MSc in Computer Science,17000.0,EUR
+"University of Washington, Bothell",Washington,United States,MS in Computer Science and Software Engineering,20815.0,USD
+Louisiana Tech University,Louisiana,United States,MS in Computer Science,10710.0,USD
+Sacred Heart University,Connecticut,United States,MS in Computer Science and Information Technology,23160.0,USD
+University of Bonn,North Rhine-Westphilia,Germany,MSc in Computer Science,,EUR
+Bridgewater State University,Massachusetts,United States,MS in Computer Science,10045.0,USD
+Queen Mary University of London,London,United Kingdom,MSc in Computer Science,31850.0,GBP
+Fordham University,New York,United States,MS in Computer Science,29560.0,USD
+Humboldt University of Berlin,Berlin,Germany,Masters in Computer Science,,EUR
+Humboldt University of Berlin,Berlin,Germany,Masters in Computer Science,,EUR
+Humboldt University of Berlin,Berlin,Germany,Masters in Computer Science,,EUR
+St. Cloud State University,Minnesota,United States,MS in Computer Science,15700.0,USD
+Emory University,Georgia,United States,MS in Computer Science,46800.0,USD
+University of Minnesota Duluth,Minnesota,United States,MS in Computer Science,15840.0,USD
+Ruhr University Bochum,North Rhine-Westphilia,Germany,Masters in Applied Computer Science,700.0,EUR
+Boise State University,Idaho,United States,MS in Computer Science,27076.0,USD
+University of Canterbury,Canterbury,New Zealand,MSc in Computer Science,42200.0,NZ
+University of the Pacific,California,United States,MS in Computer Science,24795.0,USD
+Howard University,District of Columbia,United States,MCS in Computer Science - Non-Thesis,33446.0,USD
+University of Louisiana at Lafayette,Louisiana,United States,MS in Computer Science,23414.0,USD
+Southeast Missouri State University,Missouri,United States,MS in Applied Computer Science,14040.0,USD
+Miami University,Ohio,United States,MS in Computer Science,21964.0,USD
+University of Arkansas at Little Rock,Arkansas,United States,MS in Computer Science,12408.0,USD
+University of Central Oklahoma,Oklahoma,United States,MS in Computer Science,14108.0,USD
+University of Central Oklahoma,Oklahoma,United States,MS in Computer Science,13827.0,USD
+University of Central Oklahoma,Oklahoma,United States,Masters in Computational Science - Computer Science,13827.0,USD
+University of Houston-Victoria,Texas,United States,MS in Computer Science,14184.0,USD
+"California Polytechnic State University, San Luis Obispo",California,United States,MS in Computer Science,19575.0,USD
+University of Groningen,Groningen,Netherlands,MSc in Computing Science,24200.0,EUR
+University of Birmingham,Birmingham,United Kingdom,MSc in Computer Science,31410.0,GBP
+University of Birmingham,Birmingham,United Kingdom,MSc in Advanced Computer Science,31410.0,GBP
+Tokyo Institute of Technology,Tokyo,Japan,MS in Computer Science,635400.0,JP
+Loyola University Chicago,Ohio,United States,MS in Computer Science,25376.0,USD
+Oklahoma City University,Oklahoma,United States,MS in Computer Science,19470.0,USD
+Lancaster University,Lancashire,United Kingdom,MSc in Computer Science (by Research),26492.0,GBP
+NYU Tandon School of Engineering,New York,United States,MS in Computer Science,35025.0,USD
+NYU Tandon School of Engineering,New York,United States,Diploma in Computer Science,29145.0,USD
+Texas Southern University,Texas,United States,MS in Computer Science (Thesis),11052.0,USD
+Northeastern University - Silicon Valley,California,United States,MS in Computer Science,27600.0,USD
+Northeastern University - Silicon Valley,California,United States,MS in Computer Science (Align),30360.0,USD
+Appalachian State University,North Carolina,United States,MS in Computer Science,20826.0,USD
+Cardiff University,Cardiff,United Kingdom,MSc in Advanced Computer Science with a Professional Placement Year,15100.0,GBP
+Cardiff University,Cardiff,United Kingdom,MSc in Advanced Computer Science,30200.0,GBP
+Loughborough University,Leicestershire,United Kingdom,MSc in Advanced Computer Science,28750.0,GBP
+The University of Southern Mississippi,Mississippi,United States,MS in Computer Science,10577.0,USD
+University of Bremen,Bremen,Germany,MSc in Computer Science,,EUR
+Northwestern Polytechnic University,California,United States,MS in Computer Science,16200.0,USD
+Baylor University,Texas,United States,MS in Computer Science,41130.0,USD
+"City University Of New York, Queens College",New York,United States,MA in Computer Science,17100.0,USD
+Tennessee Technological University,Tennessee,United States,MS in Computer Science,16456.0,USD
+"Eberhard Karls University, Tübingen",Baden-Warttemberg,Germany,MSc in Computer Science,3000.0,EUR
+College of William & Mary,Virginia,United States,MS in Computer Science,29352.0,USD
+University of Siegen,North Rhine-Westphilia,Germany,MSc in Computer Science,,EUR
+Clausthal University of Technology,Lower Saxony,Germany,MSc in Computer Science,,EUR
+Saint Louis University,Missouri,United States,MS in Computer Science,21000.0,USD
+Acadia University,Nova Scotia,Canada,Masters in Computer Science,14750.0,CAD
+University of Liverpool,Liverpool,United Kingdom,MSc in Theoretical Computer Science with a Year in Industry,29000.0,GBP
+University of Liverpool,Liverpool,United Kingdom,MPhil in Computer Science,13900.0,GBP
+University of Liverpool,Liverpool,United Kingdom,MSc in Computer Science,28800.0,GBP
+University of Liverpool,Liverpool,United Kingdom,MSc in Advanced Computer Science with a Year in Industry,31700.0,GBP
+University of Liverpool,Liverpool,United Kingdom,MSc in Advanced Computer Science,28800.0,GBP
+University of Liverpool,Liverpool,United Kingdom,MSc in Theoretical Computer Science,26350.0,GBP
+The University of Sheffield,Sheffield,United Kingdom,MSc in Advanced Computer Science,29700.0,GBP
+The University of Sheffield,Sheffield,United Kingdom,MSc in Computer Science With Speech and Language Processing,29700.0,GBP
+University of Lethbridge,Alberta,Canada,MSc in Computer Science,9235.0,CAD
+Duquesne University,Pennsylvania,United States,MS in Computer Science,23760.0,USD
+Troy University,Alabama,United States,Masters in Computer Science-Bioinformatics,15675.0,USD
+Troy University,Alabama,United States,MS in Computer Science - Artificial Intelligence,15675.0,USD
+"Washington State University, Vancouver",Washington,United States,MS in Computer Science,29260.0,USD
+University of Paderborn,North Rhine-Westphilia,Germany,MSc in Computer Science,,EUR
+University of Paderborn,North Rhine-Westphilia,Germany,Masters in Teaching (Computer Science),,EUR
+"University of British Columbia, Okanagan",British Columbia,Canada,MSc in Computer Science,8777.0,CAD
+"University of British Columbia, Okanagan",British Columbia,Canada,MSc in Computer Science (Coursework and thesis),9500.0,CAD
+Colorado Technical University,Colorado,United States,MS in Computer Science,,USD
+Newcastle University,Newcastle upon Tyne,United Kingdom,MSc in Advanced Computer Science,30600.0,GBP
+Newcastle University,Newcastle upon Tyne,United Kingdom,MSc in Computer Science,31200.0,GBP
+Newcastle University,Newcastle upon Tyne,United Kingdom,MPhil in Computer Science,,GBP
+University of Strathclyde,Glasgow City,United Kingdom,MSc in Advanced Computer Science with Artificial Intelligence,27500.0,GBP
+University of Strathclyde,Glasgow City,United Kingdom,MSc in Advanced Computer Science with Data Science,27500.0,GBP
+University of Strathclyde,Glasgow City,United Kingdom,MSc in Advanced Computer Science,27500.0,GBP
+Bowie State University,Maryland,United States,MS in Computer Science,13140.0,USD
+Uppsala University,Uppsala l'n,Sweden,MS in Computer Science,145000.0,SEK
+Uppsala University,Uppsala l'n,Sweden,MS in Computer Science Background - Bioinformatics,100000.0,SEK
+Uppsala University,Uppsala l'n,Sweden,MS in Concurrency and Parallel Programming,145000.0,SEK
+"Northeastern University, Seattle",Washington,United States,MS in Computer Science (Align),31416.0,USD
+"Northeastern University, Seattle",Washington,United States,MS in Computer Science,863.0,USD
+Northeastern University-Seattle,Washington,United States,MS in Computer Science,26650.0,USD
+Northeastern University-Seattle,Washington,United States,MS in Computer Science,26650.0,USD
+University of Tulsa,Oklahoma,United States,MS in Computer Science,28620.0,USD
+Columbus State University,Georgia,United States,MS in Applied Computer Science,16340.0,USD
+University of Ulm,Baden-Warttemberg,Germany,MSc in Cognitive Systems,3000.0,EUR
+Clark University,Massachusetts,United States,MS in Computer Science,40000.0,USD
+University of North Dakota,North Dakota,United States,MS in Computer Science,16355.0,USD
+Marquette University,Wisconsin,United States,MS in Computer and Information Science,24480.0,USD
+University of Rostock,Mecklenburg-Vorpommern,Germany,MSc in Computer Science International,,EUR
+University of Rostock,Mecklenburg-Vorpommern,Germany,Masters in Visual Computing,464.0,EUR
+University of Kiel (Christian-Albrechts),Schleswig-Holstein,Germany,Masters in Decision Procedures (Computer Science),,EUR
+University of Kiel (Christian-Albrechts),Schleswig-Holstein,Germany,MS in Computer Science,,EUR
+Ilmenau University of Technology,Thuringia,Germany,MS in Computer Science,,EUR
+University of Tennessee at Chattanooga,Tennessee,United States,MS in Computer Science (Thesis),14718.0,USD
+Florida Agricultural and Mechanical University,Florida,United States,MS in Computer Science,13797.0,USD
+Brandeis University,Massachusetts,United States,MS in Computer Science,59600.0,USD
+Hofstra University,New York,United States,MS in Computer Science,33300.0,USD
+St. Francis Xavier University,Nova Scotia,Canada,Masters in Applied Computer Science,15764.0,CAD
+St. Francis Xavier University,Nova Scotia,Canada,MS in Computer Science - Thesis,12752.0,CAD
+St. Francis Xavier University,Nova Scotia,Canada,MS in Applied Computer Science,15300.0,CAD
+University of Southampton,Southampton,United Kingdom,MSc in Computer Science,32300.0,GBP
+University of Wyoming,Wyoming,United States,MS in Computer Science - Non Thesis,17721.0,USD
+Central Connecticut State University,Connecticut,United States,MS in Computer Information Technology,26972.0,USD
+Embry Riddle Aeronautical University,Florida,United States,MS in Safety Science,31806.0,USD
+University of Hawaii at Manoa,Hawaii,United States,MS in Computer Science,21030.0,USD
+"Heidelberg University, Ruperto Carola",Baden-Warttemberg,Germany,MSc in Data and Computer Science,3000.0,EUR
+"Heidelberg University, Ruperto Carola",Baden-Warttemberg,Germany,MS in Applied Computer Science,3000.0,EUR
+East Carolina University,North Carolina,United States,MS in Computer Science,20771.0,USD
+The University of Rhode Island,Rhode Island,United States,MS in Computer Science,35500.0,USD
+St. John's University,New York,United States,MS in Computer Science,29400.0,USD
+University of Winnipeg,Manitoba,Canada,MSc in Applied Computer Science & Society - Course-Based,16245.0,CAD
+University of Winnipeg,Manitoba,Canada,MSc in Applied Computer Science and Society,14401.0,CAD
+University of Texas Rio Grande Valley,Texas,United States,MS in Computer Science,24220.0,USD
+University of Maryland Eastern Shore,Maryland,United States,MS in Applied Computer Science,16466.0,USD
+Flinders University,South Australia,Australia,MS in Computer Science,39000.0,AUD
+Edith Cowan University,Western Australia,Australia,Masters in Computer Science,41600.0,AUD
+"City University Of New York, Staten Island",New York,United States,MS in Computer Science,17100.0,USD
+Montclair State University,New Jersey,United States,MS in Computer Science,18100.0,USD
+University of Texas - Pan American,Texas,United States,MS in Computer Science,14045.0,USD
+The University of Maine,Maine,United States,MS in Computer Science,33920.0,USD
+Midwestern State University,Texas,United States,MS in Computer Science,11430.0,USD
+University of North America,Virginia,United States,MS in Computer Science,10530.0,USD
+"Missouri State University, Springfield",Missouri,United States,MS in Computer Science,13880.0,USD
+University of South Dakota,South Dakota,United States,MS in Computer Science,13080.0,USD
+University of New Orleans,Louisiana,United States,MS in Computer Science,30380.0,USD
+University of Bayreuth,Bavaria,Germany,"MSc in Environment, Climate Change and Health",,EUR
+University of Bayreuth,Bavaria,Germany,MSc in Computer Science,,EUR
+University of Bayreuth,Bavaria,Germany,Masters in Applied computer science,232.0,EUR
+University of Leicester,Leicester,United Kingdom,MSc in Advanced Computer Science,23650.0,GBP
+"City, University of London",London,United Kingdom,MPhil in Computer Science,19100.0,GBP
+University of Potsdam,Brandenburg,Germany,MSc in Computer Science,644.0,EUR
+Maharishi University of Management,Iowa,United States,MS in Computer Science,44000.0,USD
+American University,Washington,United States,MS in Computer Science,40000.0,USD
+University of Nottingham,Nottingham,United Kingdom,MSc in Computer Science,28600.0,GBP
+University of Nottingham,Nottingham,United Kingdom,MSc in Computer Science (Artificial Intelligence),28600.0,GBP
+"Washington State University, Tri-Cities",Washington,United States,MS in Computer Science,23397.0,USD
+The University of Vermont,Vermont,United States,MS in Computer Science,26700.0,USD
+Western Kentucky University,Kentucky,United States,MS in Computer Science,15725.0,USD
+East Tennessee State University,Tennessee,United States,MS in Computer Science,13877.0,USD
+East Tennessee State University,Tennessee,United States,MS in Computer Science- Applied Computer Science,25904.0,USD
+Delaware State University,Delaware,United States,MS in Computer Science,15168.0,USD
+"Charles Sturt University, Bathhurst",New South Wales,Australia,Masters in Computing,,AUD
+Linköping University,Östergötland,Sweden,MSc in Computer Science,140300.0,SEK
+University of Passau,Bavaria,Germany,MSc in Computer Science,208.0,EUR
+Heriot-Watt University,Edinburgh,United Kingdom,MSc in Computer Science for Cyber Security,24496.0,GBP
+City University of Seattle,Washington,United States,MS in Computer Science,17453.0,USD
+University of Waikato,Waikato,New Zealand,MSc in Computer Science-Msc Research,38915.0,NZ
+University of Waikato,Waikato,New Zealand,MPhil in  Computer Science,35235.0,NZ
+University of Waikato,Waikato,New Zealand,MSc in Computer Science-MSc(Tech),38915.0,NZ
+University of Waikato,Waikato,New Zealand,MSc in Computer Science,40860.0,NZ
+Leipzig University,Sohag,Germany,Masters in Teaching (Computer Science),,EUR
+Leipzig University,Sohag,Germany,MS in Computer Science,,EUR
+Victoria University of Wellington,Wellington,New Zealand,Masters in Computer Science,63050.0,NZ
+Roosevelt University,Illinois,United States,MS in Computer Science,16500.0,USD
+"University of New England, Australia",New South Wales,Australia,Masters in Computer Science,33829.0,AUD
+Vrije Universiteit Amsterdam,North Holland,Netherlands,Masters in Computer Science,17380.0,EUR
+"Northeastern University, Vancouver",British Columbia,Canada,MS in Computer Science,24160.0,CAD
+"Northeastern University, Vancouver",British Columbia,Canada,MS in Computer Science (Align),27509.0,CAD
+University of Bristol,Bristol,United Kingdom,MSc in Computer Science,26000.0,GBP
+University of Bristol,Bristol,United Kingdom,MSc in Computer Science (Conversion),34200.0,GBP
+"University of Alaska, Fairbanks",Alaska,United States,MS in Computer Science,18135.0,USD
+South Dakota School of Mines and Technology,South Dakota,United States,MS in Computer Science and Engineering - Thesis,12210.0,USD
+Queen's University Belfast,Belfast,United Kingdom,MPhil in Computer Science,25600.0,GBP
+Bishops University,Quebec,Canada,MSc in Computer Science (Course-Based),20858.0,CAD
+University of Otago,Otago,New Zealand,MSc in Computer Science,46909.0,NZ
+University of Otago,Otago,New Zealand,MASc in Computer Science,61428.0,NZ
+Middle Tennessee State University,Tennessee,United States,MS in Computer Science,29660.0,USD
+Leiden University,South Holland,Netherlands,MSc in Computer Science,21200.0,EUR
+Wake Forest University,North Carolina,United States,MS in Computer Science (Thesis),38650.0,USD
+Marist College,New York,United States,MS in Computer Science - Software Development,24747.0,USD
+Rivier University,New Hampshire,United States,MS in Computer Science,11952.0,USD
+University of York,York,United Kingdom,MSc in Advanced Computer Science,29400.0,GBP
+University of York,York,United Kingdom,MSc in Computer Science (by research),25700.0,GBP
+University of Exeter,Devon,United Kingdom,MSc in Computer Science by Research,24000.0,GBP
+University of Exeter,Devon,United Kingdom,MSc in Advanced Computer Science with Business,27500.0,GBP
+University of Exeter,Devon,United Kingdom,MSc in Advanced Computer Science,27500.0,GBP
+University of Exeter,Devon,United Kingdom,MPhil in Computer Science,24000.0,GBP
+University of Geneva,Geneva,Switzerland,Masters in Computer Science,1000.0,CHF
+Shippensburg University of Pennsylvania,Pennsylvania,United States,MS in Computer Science,11610.0,USD
+"City University Of New York, Lehman College",New York,United States,MS in Computer Science,15390.0,USD
+"Royal Holloway, University of London",Surrey,United Kingdom,MSc in Computer Science (by Research),26300.0,GBP
+Oxford Brookes University,Oxfordshire,United Kingdom,MSc in Computing Science,17900.0,GBP
+Oxford Brookes University,Oxfordshire,United Kingdom,MSc in Advanced Computer Science,17900.0,GBP
+James Madison University,Virginia,United States,MS in Computer Science,14970.0,USD
+Aston University,Birmingham,United Kingdom,MSc in Computer Science (including Professional Practice),23243.0,GBP
+Aston University,Birmingham,United Kingdom,MSc in Computer Science,21500.0,GBP
+Stockholm University,Stockholms l'n,Sweden,MS in Computer and Systems Sciences,135000.0,SEK
+Durham University,Durham,United Kingdom,MS in Scientific Computing and Data Analysis,27500.0,GBP
+University of the Bundeswehr Munich,Bavaria,Germany,MS in Computer Science,,EUR
+Lewis University,Illinois,United States,MS in Computer Science,14190.0,USD
+Loyola Marymount University,California,United States,MS in Computer Science,23040.0,USD
+New Mexico Institute of Mining and Technology,New Mexico,United States,MS in Computer Science,28022.0,USD
+University of Wuppertal,North Rhine-Westphilia,Germany,MSc in Computer Simulation in Science,,EUR
+Western New England University,Massachusetts,United States,MS in Computer Science,19875.0,USD
+Western New England University,Massachusetts,United States,MS in Computer Science,19125.0,USD
+University of West Georgia,Georgia,United States,MS in Applied Computer Science,25308.0,USD
+Eastern Washington University,Washington,United States,MS in Computer Science,22883.0,USD
+Prairie View A&M University,Texas,United States,MS in Computer Science,15696.0,USD
+University of Essex,Essex,United Kingdom,MSc in Advanced Computer Science,22400.0,GBP
+University of Essex,Essex,United Kingdom,MS in Advanced Computer Science,21350.0,GBP
+Monmouth University,Illinois,United States,MS in Computer Science,43800.0,USD
+"University of Southern Mississippi, Gulf Coast",Michigan,United States,MS in Computer Science,10313.0,USD
+Philipps-University Marburg,Hesse,Germany,MSc in Computer Science,772.0,EUR
+Clark Atlanta University,Georgia,United States,MS in Computer Science,19020.0,USD
+Helmut Schmidt University (Bundeswehr),Hamburg,Germany,MS in Computer Science,,EUR
+Northern Kentucky University,Kentucky,United States,MS in Computer Science,25350.0,USD
+"St. Marys University, Texas",Texas,United States,MS in Computer Science,18134.0,USD
+University of Bamberg (Otto-Friedrich),Bavaria,Germany,MSc in Applied Computer Science,,EUR
+University of Tsukuba,Ibaraki,Japan,Masters in Computer Science,535800.0,JP
+University of Göttingen,Lower Saxony,Germany,MSc in Applied Computer Science,806.0,EUR
+Westcliff University,California,United States,MS in Computer Science,14310.0,USD
+"Fairleigh Dickinson University, Florham",New Jersey,United States,MS in Computer Science,18360.0,USD
+University of West Florida,Florida,United States,MS in Computer Science,15555.0,USD
+University of Montana,Montana,United States,MS in Computer Science,15825.0,USD
+University of Hartford,Connecticut,United States,MS in Computer Science,18680.0,USD
+Teesside University,Darlington,United Kingdom,MSc in Computer Science,15000.0,GBP
+Teesside University,Darlington,United Kingdom,MSc in Computing,15000.0,GBP
+Coventry University,Coventry,United Kingdom,MSc in Computer Science,20050.0,GBP
+Metropolitan State University,Minnesota,United States,MS in Computer Science,8636.0,USD
+University of Sussex,East Sussex,United Kingdom,MSc in Computer Science (Conversion),22500.0,GBP
+University of Sussex,East Sussex,United Kingdom,MSc in Advanced Computer Science,25000.0,GBP
+Mississippi College,Mississippi,United States,MS in Computer Science,14260.0,USD
+Julius Maximilians University of Würzburg,Bavaria,Germany,MS in Computer Science,,EUR
+University of Aberdeen,Aberdeen City,United Kingdom,MSc in Artificial Intelligence,,GBP
+École Normale Supérieure de Lyon,Rhône,France,Masters in Computer Science,243.0,EUR
+Towson University,Maryland,United States,MS in Computer Science,19965.0,USD
+University of Victoria British Columbia,British Columbia,Canada,MSc in Computer Science,16476.0,CAD
+Southern University and A&M College,Louisiana,United States,MS in Computer Science,10718.0,USD
+University of Augsburg,Bavaria,Germany,MSc in Computer Science and Multimedia,,EUR
+University of Augsburg,Bavaria,Germany,MSc in Computer Science,254.0,EUR
+University of the District of Columbia,Washington,United States,MS in Computer Science,19720.0,USD
+Jackson State University,Mississippi,United States,MS in Computer Science,38904.0,USD
+University of St Andrews,Fife,United Kingdom,MSc in Computer Science,29950.0,GBP
+University of St Andrews,Fife,United Kingdom,MSc in Computer Science,27230.0,GBP
+Tokyo Metropolitan University,Tokyo,Japan,Masters in Computer Science,260400.0,JP
+East Stroudsburg University,Pennsylvania,United States,MS in Computer Science (Non-Thesis),13481.0,USD
+Birmingham City University,Birmingham,United Kingdom,MSc in Computer Science,17710.0,GBP
+Birmingham City University,Birmingham,United Kingdom,MSc in Advanced Computer Science,17710.0,GBP
+Southern Oregon University,Oregon,United States,Masters in Applied Computer Science,,USD
+Bielefeld University,North Rhine-Westphilia,Germany,MS in Computer Science,,EUR
+West Chester University of Pennsylvania,Pennsylvania,United States,MS in Computer Science,12771.0,USD
+Technical University of Denmark,Copenhagen,Denmark,MSc in Computer Science and Engineering,15000.0,USD
+Western Washington University,Washington,United States,MS in Computer Science,41328.0,USD
+Swansea University,Wales,United Kingdom,MSc in Theoretical Computer Science,21850.0,GBP
+Swansea University,Wales,United Kingdom,MSc in Computer Science  (by Research),21850.0,GBP
+Swansea University,Wales,United Kingdom,MSc in Computer Science,21300.0,GBP
+Swansea University,Wales,United Kingdom,MSc in Advanced Computer Science,21950.0,GBP
+"Nottingham Trent University, City Campus",Nottingham,United Kingdom,MSc in Computer Science,15850.0,GBP
+"Fontbonne University, St Louis",Missouri,United States,MS in Computer Science,13175.0,USD
+University of East London,London,United Kingdom,MSc in Computer Science,15960.0,GBP
+University of Bern,Bern,Switzerland,MS in Computer Science,1900.0,CHF
+University of Hertfordshire,Hertfordshire,United Kingdom,MSc in Computer Science,16450.0,GBP
+University of Hertfordshire,Hertfordshire,United Kingdom,MSc in Advanced Computer Science,16450.0,GBP
+University of Hertfordshire,Hertfordshire,United Kingdom,MSc in Advanced Computer Science with Placement Year,17950.0,GBP
+Kutztown University of Pennsylvania,Pennsylvania,United States,MS in Computer Science - Information Technology,15480.0,USD
+Christopher Newport University,Virginia,United States,Masters in Applied Physics and Computer Science,,USD
+Malmo University,Sk'ne l'n,Sweden,MS in Computer Science: Applied Data Science,150000.0,SEK
+University of St. Gallen,Sankt Gallen,Switzerland,MCS in Computer science,6658.0,CHF
+Hood College,Maryland,United States,MS in Computer Science,10808.0,USD
+New Mexico Highlands University,New Mexico,United States,MS in Media Arts and Computer Science- Computer Science,9432.0,USD
+University of Trier,Rhineland-Palatinate,Germany,MS in Geoinformatics,560.0,EUR
+University of Moncton,New Brunswick,Canada,MSc in Computer Science,10562.0,CAD
+Radboud University,Gelderland,Netherlands,MSc in Computing Science - Data Science,17000.0,EUR
+International Technological University,California,United States,MS in Computer Science,20526.0,USD
+University of Kent,Kent,United Kingdom,MSc in Advanced Computer Science,22700.0,GBP
+University of Kent,Kent,United Kingdom,MSc in Computer Science (Artificial Intelligence),22700.0,GBP
+University of Kent,Kent,United Kingdom,MSc in Computer Science,22700.0,GBP
+University of Kent,Kent,United Kingdom,MSc in Computer Science (Cyber Security),22700.0,GBP
+University of East Anglia,Norfolk,United Kingdom,MSc in Advanced Computing Science,22900.0,GBP
+University of East Anglia,Norfolk,United Kingdom,MSc in Computing Science,22900.0,GBP
+Norfolk State University,Virginia,United States,MS in Computer Science,23180.0,USD
+The University of Texas Permian Basin,Texas,United States,MS in Computer Science,31300.0,USD
+The College of Saint Rose,New York,United States,MS in Computer Science,14240.0,USD
+Johannes Gutenberg University of Mainz,Rhineland-Palatinate,Germany,MSc in Computer Science,,EUR
+University of Dundee,Dundee City,United Kingdom,MSc in Advanced Computer Science,25300.0,GBP
+University of Dundee,Dundee City,United Kingdom,MSc in Computer Science with International Business,25300.0,GBP
+University of Dundee,Dundee City,United Kingdom,MSc in Computer Science,21900.0,GBP
+University of Surrey,Surrey,United Kingdom,"MSc in Computer Vision, Robotics and Machine Learning",26500.0,GBP
+University of Greenwich,London,United Kingdom,MSc in Computer Science (Network Engineering),17275.0,GBP
+University of Greenwich,London,United Kingdom,MSc in Computer Science,18150.0,GBP
+University of Huddersfield,York,United Kingdom,MSc in Computer Science and Informatics (by Research),17000.0,GBP
+Halmstad University,Hallands l'n,Sweden,MSc in Information Technology,144000.0,SEK
+"Conestoga College, Waterloo",Waterloo,Canada,Graduate certificate in Computer Application Security,14500.0,CAD
+Middlesex University,London,United Kingdom,MSc in Computer Networks and Network Design,15700.0,GBP
+Middlesex University,London,United Kingdom,MSc in Computer Science,17300.0,GBP
+Anglia Ruskin University,London,United Kingdom,MSc in Computer Science,17755.0,GBP
+University of Copenhagen,Copenhagen,Denmark,MSc in Computer Science,14780.0,USD
+University of Hull,Kingston upon Hull,United Kingdom,MSc in Advanced Computer Science,12000.0,GBP
+Jonkoping University,J'nk'pings l'n,Sweden,MSc in Computer Science - Artificial Intelligence (AI) Engineering,150000.0,SEK
+University of Southern Maine,Maine,United States,MS in Computer Science,20250.0,USD
+Frostburg State University,Maryland,United States,MS in Applied Computer Science,18000.0,USD
+Cornell Tech,New York,United States,MEng in Computer Science,65204.0,USD
+Auburn University at Montgomery,Alabama,United States,MS in Computer Science,33462.0,USD
+"Nottingham Trent University, Clifton Campus",Nottingham,United Kingdom,MSc in Computer Science,19500.0,GBP
+"Nottingham Trent University, Clifton Campus",Nottingham,United Kingdom,MSc in Computing Systems,19100.0,GBP
+North Carolina Central University,North Carolina,United States,Masters in Computer Science,25343.0,USD
+Bangor University,Gwynedd,United Kingdom,MSc in Advanced Computer Science,17000.0,GBP
+Bangor University,Gwynedd,United Kingdom,Masters in Computer Science by Research,19000.0,GBP
+Bangor University,Gwynedd,United Kingdom,MSc in Computing,17000.0,GBP
+Southern Adventist University,Tennessee,United States,MS in Computer Science,11798.0,USD
+Cardiff Metropolitan University,Wales,United Kingdom,MSc in Advanced Computer Science,17600.0,GBP
+Université du Québec à Rimouski,Quebec,Canada,Msc in Computer Science(professional profile),10866.0,CAD
+Université du Québec à Rimouski,Quebec,Canada,MSc in Computer Science(research profile),21732.0,CAD
+"Northumbria University, Newcastle",Newcastle upon Tyne,United Kingdom,MSc in Advanced Computer Science,14286.0,GBP
+"Northumbria University, Newcastle",Newcastle upon Tyne,United Kingdom,MSc in Advanced Computer Science with Advanced Practice,22000.0,GBP
+"Northumbria University, Newcastle",Newcastle upon Tyne,United Kingdom,MSc in Computer Science,14850.0,GBP
+"New York Institute of Technology, Vancouver",New York,United States,MS in Computer Science,23100.0,USD
+Purdue University Fort Wayne,Indiana,United States,MS in Computer Science,17900.0,USD
+University of Basel,Basel-Stadt,Switzerland,MSc in Computer Science,1700.0,CHF
+Aarhus University,Midtjylland,Denmark,MSc in Computer Science,15300.0,USD
+"California State University, Bakersfield",California,United States,MS in Computer Science,11475.0,USD
+Trinity University,Texas,United States,MSc in Computer Science - Intelligent Systems,26989.0,USD
+Sorbonne University,Paris,France,MSc in Computer Science- Quantum Information,,EUR
+Aberystwyth University,Wales,United Kingdom,MSc in Computer Science,19290.0,GBP
+Aberystwyth University,Wales,United Kingdom,MSc in Advanced Computer Science (with integrated year in industry),19290.0,GBP
+Aberystwyth University,Wales,United Kingdom,MSc in Advanced Computer Science,19290.0,GBP
+Virginia State University,Virginia,United States,MS in Computer Science - Non-Thesis,17573.0,USD
+Manchester Metropolitan University,Manchester,United Kingdom,MSc in Computer Games Development,17000.0,GBP
+Manchester Metropolitan University,Manchester,United Kingdom,MSc in Computer Science,18500.0,GBP
+Umea University,V'sterbottens l'n,Sweden,Masters in Computing Science,142800.0,SEK
+University of Neuchâtel,Neuch'tel,Switzerland,MS in Computer Science,1580.0,CHF
+Monroe College,New York,United States,MS in Computer Science,16542.0,USD
+Abertay University,Dundee City,United Kingdom,MA in Computer Arts (by Research),14750.0,GBP
+Keele University,Staffordshire,United Kingdom,MSc in Computer Science,20700.0,GBP
+Keele University,Staffordshire,United Kingdom,MSc in Advanced Computer Science,20700.0,GBP
+Leeds Beckett University,Leeds,United Kingdom,MSc in Advanced Computer Science,16000.0,GBP
+University of Central Lancashire,Lancashire,United Kingdom,MSc in Computing,16900.0,GBP
+University of Bedfordshire,Buckinghamshire,United Kingdom,MSc in Computer Science with placement,14627.0,GBP
+University of Bedfordshire,Buckinghamshire,United Kingdom,MSc in Computer Science,15600.0,GBP
+University of Bedfordshire,Buckinghamshire,United Kingdom,MSc in Computer Science with Project Management,17100.0,GBP
+Saginaw Valley State University,Michigan,United States,MS in Computer Science and Information Systems,10815.0,USD
+University of Rennes 1,Brittany,France,Masters in Computer Science,243.0,EUR
+University of Fribourg,Fribourg,Switzerland,MS in Computer Science,1970.0,CHF
+De Montfort University,Leicester,United Kingdom,MSc in Computing,17600.0,GBP
+University of Wolverhampton,Wolverhampton,United Kingdom,MSc in Computer Science,15950.0,GBP
+Nantes Université,Pays de la Loire,France,Masters in Computer Science,601.0,EUR
+The Hong Kong University of Science and Technology,New Territories,Hong Kong,MPhil in Computer Science and Engineering,216360.0,USD
+Staffordshire University,Stoke-on-Trent,United Kingdom,MSc in Computer Science (Cyber Security),15509.0,GBP
+Staffordshire University,Stoke-on-Trent,United Kingdom,MSc in Computer Science (Business Computing),15509.0,GBP
+Staffordshire University,Stoke-on-Trent,United Kingdom,MSc in Computer Science (Software Engineering),15509.0,GBP
+Staffordshire University,Stoke-on-Trent,United Kingdom,MSc in Computer Science (Computer Networks and Security),15509.0,GBP
+Staffordshire University,Stoke-on-Trent,United Kingdom,MSc in Computer Science,15509.0,GBP
+University of South Wales,Wales,United Kingdom,MSc in Computer Science,15100.0,GBP
+Fitchburg State University,Massachusetts,United States,MS in Computer Science,5726.0,USD
+"University of the Pacific, San Francisco",California,United States,MS in Computer Science,24075.0,USD
+University of Gothenburg,V'stra G'talands l'n,Sweden,Masters in Computer Science,154000.0,SEK
+The University of Hong Kong,Pok Fu Lam,Hong Kong,MSc in Computer Science,216000.0,USD
+University of Chester,Warrington,United Kingdom,MSc in Computer Science (Conversion),14250.0,GBP
+University of Chester,Warrington,United Kingdom,MSc in Advanced Computer Science,14250.0,GBP
+Iona College,New York,United States,MS in Computer Science,22440.0,USD
+West Virginia State University,West Virginia,United States,MS in Computer Science,20640.0,USD
+Solent University,Hampshire,United Kingdom,MSc in Applied AI and Data Science,15300.0,GBP
+Frankfurt University of Applied Sciences,Frankfurt,Germany,MSc in General Computer Science,21540.0,EUR
+SRH University Heidelberg,Heidelberg,Germany,MSc in Applied Computer Science,12900.0,EUR
+Deggendorf Institute of Technology,Bavaria,Germany,MSc in Applied Computer Science,,EUR
+Ulster University,Coleraine,United Kingdom,MSc in Computer Science,17089.0,GBP
+Liverpool John Moores University,Liverpool,United Kingdom,MSc in Virtual and Augmented Reality,18250.0,GBP
+City University of Hong Kong,Kowloon,Hong Kong,MSc in Computer Science,168000.0,USD
+Sapienza University of Rome,Roma,Italy,MSc in Computer Science,1000.0,EUR
+Oklahoma Christian University,Oklahoma,United States,MS in Computer Science,18150.0,USD
+"University of Southern Denmark, Odense",Odense,Denmark,MSc in Computer Science,13900.0,USD
+Esslingen University of Applied Sciences,Esslingen,Germany,MSc in Applied Computer Science,,EUR
+SRH Hochschule Berlin,Berlin,Germany,MSc in Computer Science - Cyber Security,13600.0,EUR
+University of the West of Scotland,London,United Kingdom,MSc in Advanced Computing,18000.0,GBP
+HTW Berlin,Berlin,Germany,MSc in Computer Science - Big Data and Artificial Intelligence,13600.0,EUR
+Idaho State University,Idaho,United States,MS in Computer Science,25125.0,USD
+"Goldsmiths, University of London",London,United Kingdom,MA in Computer Games - Art & Design,17430.0,GBP
+"Goldsmiths, University of London",London,United Kingdom,MSc in Computer Games Programming,17430.0,GBP
+"Goldsmiths, University of London",London,United Kingdom,MPhil in Computer Science,17430.0,GBP
+FH Schmalkalden University of Applied Sciences,Schmalkalden,Germany,MSc in Applied Computer Science,,EUR
+Florida Polytechnic University,Florida,United States,MSc in Computer Science(Thesis ),14895.0,USD
+The Chinese University of Hong Kong,New Territories,Hong Kong,MSc in Computer Science,230000.0,USD
+Saint Leo University,St. Leo,United States,MS in Computer Science,9750.0,USD
+"Charité – Universitätsmedizin Berlin, Charité Mitte",Mitte,Germany,MScasdf in Information Systems,66666.0,EUR
+"Charité – Universitätsmedizin Berlin, Charité Mitte",Mitte,Germany,Masters in computer science,,EUR
+University of Lincoln,Lincolnshire,United Kingdom,MSc in Computer Science,17600.0,GBP
+University of Lincoln,Lincolnshire,United Kingdom,MSc in Computer Science - By Research,16700.0,GBP
+Roskilde University,Sjælland,Denmark,MSc in Computer Science,18000.0,USD
+"Concordia University, Chicago",Illinois,United States,MS in Computer Science,12780.0,USD
+"Birkbeck, University of London",London,United Kingdom,MSc in Computer Science,19830.0,GBP
+"Birkbeck, University of London",London,United Kingdom,MRes in Computer Science,18030.0,GBP
+University of Strasbourg,Strasbourg,France,MSc in Computer Science,,EUR
+École normale supérieure Paris-Saclay,Gif-sur-Yvette,France,MS in Computer Science,122.0,EUR
+Universite de Lille,Lille,France,MS in Computer Science,,EUR
+Claude Bernard University Lyon 1,Villeurbanne,France,MS in Computer science,,EUR
+Jean Monnet University,Saint-Étienne,France,Masters in Computer Science Cyber -Physical Social Systems,500.0,EUR
+Mannheim University of Applied Sciences,Mannheim,Germany,MSc in Computer Science,4500.0,EUR
+Hof University of Applied Sciences,Bavaria,Germany,MSc in Applied Research in Computer Science,,EUR
+National Institute For Applied Science - Lyon,Villeurbanne,France,M.S in Computer Science and Technology,,EUR
+Lucerne University of Applied Sciences and Arts,Luzern,Switzerland,MS in Engineering (Computer Science & Data Science),1600.0,CHF
+University of Poitiers,Poitiers,France,MS in Computer Science,95.0,EUR
+Mercy College,New York,United States,MS in Computer Science,30870.0,USD
+Mines ParisTech,Paris,France,MS in Computer science,,EUR
+Université de Pau et des Pays de l'Adour,Pyrénées-Atlantiques,France,Masters in Computer Science,3770.0,EUR
+Augusta University,Georgia,United States,MS in Computer Science,11745.0,USD
+Angelo State University,Texas,United States,MS in Computer Science,16440.0,USD
+International University of applied sciences,Berlin,Germany,MA in Computer Science,5904.0,EUR
+York St John University,North Yorkshire,United Kingdom,MSc in Computer Science,11300.0,GBP
+"Northeastern University, Oakland",California,United States,MS in Computer Science,28560.0,USD
+"Northeastern University, Oakland",California,United States,MS in Computer Science (Align),30360.0,USD
+Charleston Southern University,South Carolina,United States,MS in Computer Science,15750.0,USD
+Graz University of Technology,Lower Austria,Austria,MSc in Computer Science,,USD
+Texas A&M University - San Antonio,Texas,United States,MS in Computer Science,14972.0,USD
+Politecnico di Milano,Milan,Italy,MS in Computer Science and Engineering,1946.0,EUR
+"Fairleigh Dickinson University , Vancouver",Vancouver,Canada,MS in Applied Computer Science,15735.0,CAD
+"Northeastern University, Portland",Maine,United States,MS in Computer Science (Align),30360.0,USD
+Liverpool Hope University,Liverpool,United Kingdom,MSc in Advanced Computer Science,13000.0,GBP
+"Northeastern University, Portland",Maine,United States,MS in Computer Science,28560.0,USD
+"Northeastern University, Arlington",Virginia,United States,MS in Computer Science,28560.0,USD
+Fulda University of Applied Sciences,Hesse,Germany,MSc in Applied Computer Science,600.0,EUR
+"Concordia University, Wisconsin",Wisconsin,United States,MS in Computer Science,16800.0,USD
+Constructor Institute,Schaffhausen,Switzerland,MSc in Computer Science and Software Engineering,20000.0,CHF
+"Northeastern University, Arlington",Virginia,United States,MS in Computer Science (Align),30360.0,USD
+"Rutgers University, Camden",New Jersey,United States,MS in Computer Science - Scientific Computing,25680.0,USD
+EPITA - School of Engineering and Computer Science,Toulouse,France,MSc in Computer Science,9840.0,EUR
+Charleston Southern University,South Carolina,United States,MS in Computer Science,15750.0,USD
+Charleston Southern University,South Carolina,United States,MS in Computer Science,15750.0,USD
+Oral Roberts University,Oklahoma,United States,MS in Computer Science (Computer Science),13275.0,USD
+Oral Roberts University,Oklahoma,United States,MS in Computer Science (Data Science),13275.0,USD
+Charleston Southern University,South Carolina,United States,MS in Computer Science,15750.0,USD
+Charleston Southern University,South Carolina,United States,MS in Computer Science,15750.0,USD
+Charleston Southern University,South Carolina,United States,MS in Computer Science,15750.0,USD
+Charleston Southern University,South Carolina,United States,MS in Computer Science,15750.0,USD
+Avila University,Missouri,United States,MS in Computer Science Management,10800.0,USD
+Tennessee State University,Tennessee,United States,MS in Computer Science,18926.0,USD
+Austin Peay State University,Tennessee,United States,MS in Computer Science and Quantitative Methods (Mathematical finance),12111.0,USD
+Austin Peay State University,Tennessee,United States,MS in Computer Science and Quantitative Methods (Information Assurance and Security),11205.0,USD
+Austin Peay State University,Tennessee,United States,MS in Computer Science and Quantitative Methods: Mathematics Instruction,11010.0,USD
+Austin Peay State University,Tennessee,United States,MS in Computer Science and Quantitative Methods (Data Management and Analysis),11205.0,USD
+Weber State University,Utah,United States,MS in Computer Science,32012.0,USD
+Austin Peay State University,Tennessee,United States,MS in Computer Science and Quantitative Methods (Predictive analytics),12111.0,USD
+Oral Roberts University,Oklahoma,United States,MSc in Computer Science (Data Science),12750.0,USD
+Oral Roberts University,Oklahoma,United States,MSc in Computer Science (Data Science),12750.0,USD
+Oral Roberts University,Oklahoma,United States,MSc in Computer Science (Data Science),12750.0,USD
+University of South-Eastern Norway,Kongsberg,Norway,MSc in Computer Science,230000.0,USD
+Zurich University of Applied Sciences,Schleswig-Holstein,Germany,Msc in Computer Science,1440.0,EUR
+"Concordia University, Wisconsin",Wisconsin,United States,MS in Computer Science,16120.0,USD
+"Concordia University, Wisconsin",Wisconsin,United States,MS in Computer Science,16120.0,USD
+Østfold University College,Halden,Norway,Masters in Applied Computer Science,1600.0,USD
+Eastern Kentucky University,Kentucky,United States,MS in Computer Science,11250.0,USD
+Deggendorf Institute of Technology (Cham),Bavaria,Germany,Masters in Computer Science,,EUR
+Ravensbourne University London,London,United Kingdom,MSc in Computer Science,17000.0,GBP
+IU International University of Applied Sciences,Berlin,Germany,MSc in  Computer Science,5988.0,EUR
+University of St. Thomas,Minnesota,United States,B.S in Computer Science,74516.0,USD
+HES-SO - Haute Ecole Spécialisée de Suisse occidentale (Siège),Geneva,Switzerland,M.S in computer science,1000.0,CHF
+University of North Carolina Wilmington,North Carolina,United States,MS in Computer Science and Information Systems,20160.0,USD
