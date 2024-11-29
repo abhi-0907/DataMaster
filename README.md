@@ -51,7 +51,7 @@ Follow these steps to run the application locally:
 2. **Create a virtual environment**:
    ```bash
    python -m venv .venv
-   source .venv/Scripts/activate  # For Windows: .venv\Scripts\activate
+   source .venv/bin/activate  # For Windows: .venv\Scripts\activate
    ```
 
 3. **Install dependencies**:
@@ -74,11 +74,12 @@ Follow these steps to run the application locally:
 5. **Set up the MySQL database**:
    - Import the database schema:
      ```bash
-     mysql -u <user> -p <database_name> < DB.sql
+     mysql -u <user> -p<password> < DB.sql
      ```
 
 6. **Run the application**:
    ```bash
+   cd App
    flask run
    ```
 
