@@ -1,0 +1,36 @@
+version: "3.9"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"  # Map the container's port 5000 to localhost's port 5000
+    environment:
+      FLASK_APP: app.py
+      FLASK_ENV: development
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root_password
+      MYSQL_HOST: db
+      MYSQL_DB: datamaster
+      GEMINI_API_KEY: your_gemini_flash_api_key
+    depends_on:
+      - db
+    volumes:
+      - .:/app
+
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    ports:
+      - "3306:3306"  # Map MySQL container's port to localhost
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password
+      MYSQL_DATABASE: MASTER_ANALYTICS
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./DB.sql:/docker-entrypoint-initdb.d/DB.sql:ro
+
+volumes:
+  db_data:
+

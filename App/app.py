@@ -21,7 +21,7 @@ def get_data(course, country, fees):
     # Use parameterized query without quotes around placeholders
     query = """
         SELECT university_name, state, country, course_name, average_fees_in_inr 
-        FROM COURSES
+        FROM courses
         WHERE course = %s AND country = %s AND average_fees_in_inr <= %s;
     """
     
@@ -51,7 +51,7 @@ def get_data(course, country, fees):
 
     # Getting geo data
     query2 = """
-            SELECT university_name, lat, `long` FROM geoData
+            SELECT university_name, lat, `long` FROM geodata
             WHERE university_name IN ({})
                 """
 
@@ -76,6 +76,7 @@ def get_db_connection():
         connection = mysql.connector.connect(
             host=os.getenv("DB_HOST"),
             database=os.getenv("DB_NAME"),
+            port = os.getenv("DB_PORT"),
             user=os.getenv("DB_USER"),
             password=os.getenv("DB_PASSWORD"),
         )
