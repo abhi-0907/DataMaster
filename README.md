@@ -24,7 +24,7 @@ DataMaster is a Flask-based web application designed to assist users in explorin
 ## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Flask (Python), REST APIs  
+- **Backend**: Flask (Python)
 - **Database**: MySQL  
 - **Data Processing**: BeautifulSoup (for web scraping), Pandas (for cleaning and transformation)  
 - **Data Visualization**: Folium (for interactive maps)
